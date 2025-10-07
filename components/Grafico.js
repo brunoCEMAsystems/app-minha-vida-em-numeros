@@ -55,4 +55,5 @@ const styles = StyleSheet.create({
   card: { backgroundColor: 'white', borderRadius: 8, padding: 10, marginHorizontal: 15, marginBottom: 20, elevation: 3, alignItems: 'center' },
   tituloGrafico: { textAlign: 'center', fontWeight: 'bold', fontSize: 18, color: '#34495e', marginBottom: 5 },
   infoTexto: { textAlign: 'center', margin: 10, fontStyle: 'italic', color: '#555' },
+
 });
